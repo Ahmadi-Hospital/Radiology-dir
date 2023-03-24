@@ -1,2 +1,0 @@
-# Radiology-dir
-telephone directory 
